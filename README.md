@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @DanWillRob
+
 👀 I’m interested on web development
+
 🌱 I’m currently learning Frontend Development
+
 💞️ I’m looking to collaborate on anything
+
 💬 Ask me about C#
